@@ -21,4 +21,3 @@ print(row_line)
 +----------+----------+----------+
 | 3        | Charlie  | 30       |
 +----------+----------+----------+
-C:\Users\Lenevo\Desktop\.vs\Desktop\v17\table2.py
